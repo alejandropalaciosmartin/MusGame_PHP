@@ -24,7 +24,7 @@
 </head>
 <body>
     <?php
-        include 'functionsMus.php';
+        include 'functions.php';
 
         $cartas = [
             ["imagen" => "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-1-minimalart.png","valor" => "1", "palo" => "oro", "numero" => "1"],
